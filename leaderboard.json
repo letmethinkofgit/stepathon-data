@@ -1,0 +1,3280 @@
+{
+  "updatedAt": "2026-08-23T12:37:02+05:30",
+  "challenge": {
+    "name": "Stepathon 2026",
+    "startDate": "2026-08-14",
+    "endDate": "2026-09-14",
+    "rules": "0 points below 6,000 steps; 1 point for 6,000–7,999; 2 for 8,000–9,999; 3 for 10,000–11,999; 4 for 12,000–14,999; and 5 for 15,000+."
+  },
+  "teams": [
+    {
+      "name": "Pandal Pacers",
+      "rank": 1,
+      "registeredMembers": 10,
+      "totalPoints": 94,
+      "averagePointsPerMember": 9.4
+    },
+    {
+      "name": "Aarti Avengers",
+      "rank": 2,
+      "registeredMembers": 10,
+      "totalPoints": 89,
+      "averagePointsPerMember": 8.9
+    },
+    {
+      "name": "Ganapati Striders",
+      "rank": 3,
+      "registeredMembers": 10,
+      "totalPoints": 85,
+      "averagePointsPerMember": 8.5
+    },
+    {
+      "name": "Mushika Miles",
+      "rank": 4,
+      "registeredMembers": 10,
+      "totalPoints": 85,
+      "averagePointsPerMember": 8.5
+    },
+    {
+      "name": "Morya Movers",
+      "rank": 5,
+      "registeredMembers": 10,
+      "totalPoints": 83,
+      "averagePointsPerMember": 8.3
+    },
+    {
+      "name": "Dhol Dashers",
+      "rank": 6,
+      "registeredMembers": 10,
+      "totalPoints": 79,
+      "averagePointsPerMember": 7.9
+    },
+    {
+      "name": "Laddu Legends",
+      "rank": 7,
+      "registeredMembers": 10,
+      "totalPoints": 71,
+      "averagePointsPerMember": 7.1
+    },
+    {
+      "name": "Chaturthi Challengers",
+      "rank": 8,
+      "registeredMembers": 10,
+      "totalPoints": 68,
+      "averagePointsPerMember": 6.8
+    },
+    {
+      "name": "Modak Marchers",
+      "rank": 9,
+      "registeredMembers": 10,
+      "totalPoints": 68,
+      "averagePointsPerMember": 6.8
+    },
+    {
+      "name": "Ganesha Gliders",
+      "rank": 10,
+      "registeredMembers": 10,
+      "totalPoints": 63,
+      "averagePointsPerMember": 6.3
+    },
+    {
+      "name": "Lambodhara Leapers",
+      "rank": 11,
+      "registeredMembers": 10,
+      "totalPoints": 59,
+      "averagePointsPerMember": 5.9
+    }
+  ],
+  "participants": [
+    {
+      "name": "Vibhu Singh",
+      "team": "Morya Movers",
+      "totalSteps": 128194,
+      "averageDailySteps": 32048,
+      "totalPoints": 20,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 29562,
+          "points": 5
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 34355,
+          "points": 5
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 31606,
+          "points": 5
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 32671,
+          "points": 5
+        }
+      ]
+    },
+    {
+      "name": "Yuvraj  🏃",
+      "team": "Ganapati Striders",
+      "totalSteps": 113017,
+      "averageDailySteps": 28254,
+      "totalPoints": 20,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 28042,
+          "points": 5
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 28132,
+          "points": 5
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 30764,
+          "points": 5
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 26079,
+          "points": 5
+        }
+      ]
+    },
+    {
+      "name": "ASHA D104",
+      "team": "Modak Marchers",
+      "totalSteps": 105403,
+      "averageDailySteps": 26351,
+      "totalPoints": 20,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 28624,
+          "points": 5
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 30095,
+          "points": 5
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 25040,
+          "points": 5
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 21644,
+          "points": 5
+        }
+      ]
+    },
+    {
+      "name": "Savitha S C507",
+      "team": "Mushika Miles",
+      "totalSteps": 83958,
+      "averageDailySteps": 20990,
+      "totalPoints": 20,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 20730,
+          "points": 5
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 20586,
+          "points": 5
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 21434,
+          "points": 5
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 21208,
+          "points": 5
+        }
+      ]
+    },
+    {
+      "name": "Vinay  B404",
+      "team": "Chaturthi Challengers",
+      "totalSteps": 82909,
+      "averageDailySteps": 20727,
+      "totalPoints": 20,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 21615,
+          "points": 5
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 17319,
+          "points": 5
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 23218,
+          "points": 5
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 20757,
+          "points": 5
+        }
+      ]
+    },
+    {
+      "name": "Siva B103",
+      "team": "Ganesha Gliders",
+      "totalSteps": 78079,
+      "averageDailySteps": 19520,
+      "totalPoints": 20,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 18420,
+          "points": 5
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 21560,
+          "points": 5
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 18705,
+          "points": 5
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 19394,
+          "points": 5
+        }
+      ]
+    },
+    {
+      "name": "Akshatha  A 604",
+      "team": "Lambodhara Leapers",
+      "totalSteps": 74777,
+      "averageDailySteps": 18694,
+      "totalPoints": 20,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 22229,
+          "points": 5
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 16671,
+          "points": 5
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 18551,
+          "points": 5
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 17326,
+          "points": 5
+        }
+      ]
+    },
+    {
+      "name": "Jabjit Boruah",
+      "team": "Mushika Miles",
+      "totalSteps": 67915,
+      "averageDailySteps": 16979,
+      "totalPoints": 19,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 15100,
+          "points": 5
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 24763,
+          "points": 5
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 13026,
+          "points": 4
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 15026,
+          "points": 5
+        }
+      ]
+    },
+    {
+      "name": "Karthik Sharath A1101",
+      "team": "Pandal Pacers",
+      "totalSteps": 62703,
+      "averageDailySteps": 15676,
+      "totalPoints": 18,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 12796,
+          "points": 4
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 21669,
+          "points": 5
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 12848,
+          "points": 4
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 15390,
+          "points": 5
+        }
+      ]
+    },
+    {
+      "name": "Akshatha Shetty B-705",
+      "team": "Pandal Pacers",
+      "totalSteps": 60453,
+      "averageDailySteps": 15113,
+      "totalPoints": 18,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 18398,
+          "points": 5
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 15246,
+          "points": 5
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 11646,
+          "points": 3
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 15163,
+          "points": 5
+        }
+      ]
+    },
+    {
+      "name": "Bhaskar Deka",
+      "team": "Ganapati Striders",
+      "totalSteps": 58690,
+      "averageDailySteps": 14672,
+      "totalPoints": 17,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 19255,
+          "points": 5
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 13271,
+          "points": 4
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 15985,
+          "points": 5
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 10179,
+          "points": 3
+        }
+      ]
+    },
+    {
+      "name": "Sagar A708",
+      "team": "Aarti Avengers",
+      "totalSteps": 56698,
+      "averageDailySteps": 14174,
+      "totalPoints": 17,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 16593,
+          "points": 5
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 8010,
+          "points": 2
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 17074,
+          "points": 5
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 15021,
+          "points": 5
+        }
+      ]
+    },
+    {
+      "name": "Karthik _ A203",
+      "team": "Morya Movers",
+      "totalSteps": 55948,
+      "averageDailySteps": 13987,
+      "totalPoints": 17,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 10029,
+          "points": 3
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 14250,
+          "points": 4
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 16391,
+          "points": 5
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 15278,
+          "points": 5
+        }
+      ]
+    },
+    {
+      "name": "Harsha A 604",
+      "team": "Laddu Legends",
+      "totalSteps": 54900,
+      "averageDailySteps": 13725,
+      "totalPoints": 17,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 17263,
+          "points": 5
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 15096,
+          "points": 5
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 12063,
+          "points": 4
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 10478,
+          "points": 3
+        }
+      ]
+    },
+    {
+      "name": "Sharath  -  A 1101",
+      "team": "Dhol Dashers",
+      "totalSteps": 59849,
+      "averageDailySteps": 14962,
+      "totalPoints": 16,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 15361,
+          "points": 5
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 19304,
+          "points": 5
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 18935,
+          "points": 5
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 6249,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Mythili B1203",
+      "team": "Pandal Pacers",
+      "totalSteps": 48727,
+      "averageDailySteps": 12182,
+      "totalPoints": 16,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 12093,
+          "points": 4
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 12203,
+          "points": 4
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 12221,
+          "points": 4
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 12210,
+          "points": 4
+        }
+      ]
+    },
+    {
+      "name": "Poornima A 806",
+      "team": "Aarti Avengers",
+      "totalSteps": 51674,
+      "averageDailySteps": 12918,
+      "totalPoints": 15,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 11123,
+          "points": 3
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 14497,
+          "points": 4
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 11039,
+          "points": 3
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 15015,
+          "points": 5
+        }
+      ]
+    },
+    {
+      "name": "Rashmi. V D-1203",
+      "team": "Pandal Pacers",
+      "totalSteps": 48655,
+      "averageDailySteps": 12164,
+      "totalPoints": 14,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 15190,
+          "points": 5
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 15063,
+          "points": 5
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 11709,
+          "points": 3
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 6693,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Sunitha Shetty B-602(SS)",
+      "team": "Morya Movers",
+      "totalSteps": 48390,
+      "averageDailySteps": 12098,
+      "totalPoints": 14,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 12172,
+          "points": 4
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 2520,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 17568,
+          "points": 5
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 16130,
+          "points": 5
+        }
+      ]
+    },
+    {
+      "name": "sudheendra D 305 mattamari",
+      "team": "Mushika Miles",
+      "totalSteps": 47846,
+      "averageDailySteps": 11962,
+      "totalPoints": 14,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 13042,
+          "points": 4
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 11270,
+          "points": 3
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 11482,
+          "points": 3
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 12052,
+          "points": 4
+        }
+      ]
+    },
+    {
+      "name": "Veeresh A404",
+      "team": "Ganesha Gliders",
+      "totalSteps": 46082,
+      "averageDailySteps": 11520,
+      "totalPoints": 14,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 15023,
+          "points": 5
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 10538,
+          "points": 3
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 10503,
+          "points": 3
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 10018,
+          "points": 3
+        }
+      ]
+    },
+    {
+      "name": "Anki Brahme",
+      "team": "Aarti Avengers",
+      "totalSteps": 50398,
+      "averageDailySteps": 12600,
+      "totalPoints": 13,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 16042,
+          "points": 5
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 14931,
+          "points": 4
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 13432,
+          "points": 4
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 5993,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Vivek Hegde",
+      "team": "Dhol Dashers",
+      "totalSteps": 48170,
+      "averageDailySteps": 12042,
+      "totalPoints": 13,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 16608,
+          "points": 5
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 4736,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 14581,
+          "points": 4
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 12245,
+          "points": 4
+        }
+      ]
+    },
+    {
+      "name": "Harsha A208",
+      "team": "Dhol Dashers",
+      "totalSteps": 45486,
+      "averageDailySteps": 11372,
+      "totalPoints": 13,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 15047,
+          "points": 5
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 13096,
+          "points": 4
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 7269,
+          "points": 1
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 10074,
+          "points": 3
+        }
+      ]
+    },
+    {
+      "name": "Pradeep Kumar A502",
+      "team": "Modak Marchers",
+      "totalSteps": 44268,
+      "averageDailySteps": 11067,
+      "totalPoints": 13,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 15122,
+          "points": 5
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 12238,
+          "points": 4
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 6462,
+          "points": 1
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 10446,
+          "points": 3
+        }
+      ]
+    },
+    {
+      "name": "Savita Bennur",
+      "team": "Aarti Avengers",
+      "totalSteps": 49890,
+      "averageDailySteps": 12472,
+      "totalPoints": 12,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 9988,
+          "points": 2
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 11399,
+          "points": 3
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 9759,
+          "points": 2
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 18744,
+          "points": 5
+        }
+      ]
+    },
+    {
+      "name": "Rohit Todi",
+      "team": "Ganapati Striders",
+      "totalSteps": 44583,
+      "averageDailySteps": 11146,
+      "totalPoints": 12,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 11314,
+          "points": 3
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 11883,
+          "points": 3
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 10936,
+          "points": 3
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 10450,
+          "points": 3
+        }
+      ]
+    },
+    {
+      "name": "Geeta Deka",
+      "team": "Morya Movers",
+      "totalSteps": 44542,
+      "averageDailySteps": 11136,
+      "totalPoints": 12,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 15660,
+          "points": 5
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 15206,
+          "points": 5
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 7101,
+          "points": 1
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 6575,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Sonali Sinha",
+      "team": "Mushika Miles",
+      "totalSteps": 43194,
+      "averageDailySteps": 10798,
+      "totalPoints": 12,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 16798,
+          "points": 5
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 10665,
+          "points": 3
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 3634,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 12097,
+          "points": 4
+        }
+      ]
+    },
+    {
+      "name": "Arjun A1309",
+      "team": "Lambodhara Leapers",
+      "totalSteps": 43411,
+      "averageDailySteps": 10853,
+      "totalPoints": 11,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 15969,
+          "points": 5
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 9063,
+          "points": 2
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 7445,
+          "points": 1
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 10934,
+          "points": 3
+        }
+      ]
+    },
+    {
+      "name": "Swathy D1303",
+      "team": "Chaturthi Challengers",
+      "totalSteps": 41078,
+      "averageDailySteps": 10270,
+      "totalPoints": 11,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 8411,
+          "points": 2
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 15941,
+          "points": 5
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 10420,
+          "points": 3
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 6306,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "krishna AR",
+      "team": "Dhol Dashers",
+      "totalSteps": 39902,
+      "averageDailySteps": 9976,
+      "totalPoints": 11,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 12062,
+          "points": 4
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 8027,
+          "points": 2
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 11184,
+          "points": 3
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 8629,
+          "points": 2
+        }
+      ]
+    },
+    {
+      "name": "satyam",
+      "team": "Mushika Miles",
+      "totalSteps": 43205,
+      "averageDailySteps": 10801,
+      "totalPoints": 10,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 9823,
+          "points": 2
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 11543,
+          "points": 3
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 11841,
+          "points": 3
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 9998,
+          "points": 2
+        }
+      ]
+    },
+    {
+      "name": "Krishnan A1203",
+      "team": "Ganesha Gliders",
+      "totalSteps": 42976,
+      "averageDailySteps": 10744,
+      "totalPoints": 10,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 18990,
+          "points": 5
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 6455,
+          "points": 1
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 3333,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 14198,
+          "points": 4
+        }
+      ]
+    },
+    {
+      "name": "Atul C706",
+      "team": "Ganesha Gliders",
+      "totalSteps": 41536,
+      "averageDailySteps": 10384,
+      "totalPoints": 10,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 22229,
+          "points": 5
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 16625,
+          "points": 5
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 2051,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 631,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Kaushik Sarma D1402",
+      "team": "Pandal Pacers",
+      "totalSteps": 39997,
+      "averageDailySteps": 9999,
+      "totalPoints": 9,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 4991,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 6911,
+          "points": 1
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 17139,
+          "points": 5
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 10956,
+          "points": 3
+        }
+      ]
+    },
+    {
+      "name": "Riccha Agarwal",
+      "team": "Ganapati Striders",
+      "totalSteps": 39033,
+      "averageDailySteps": 9758,
+      "totalPoints": 9,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 8646,
+          "points": 2
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 14080,
+          "points": 4
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 9099,
+          "points": 2
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 7208,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Nayana Hegde",
+      "team": "Ganapati Striders",
+      "totalSteps": 38844,
+      "averageDailySteps": 9711,
+      "totalPoints": 9,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 14873,
+          "points": 4
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 5270,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 10262,
+          "points": 3
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 8439,
+          "points": 2
+        }
+      ]
+    },
+    {
+      "name": "Surendra Dixit",
+      "team": "Laddu Legends",
+      "totalSteps": 37722,
+      "averageDailySteps": 9430,
+      "totalPoints": 9,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 12579,
+          "points": 4
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 7214,
+          "points": 1
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 11517,
+          "points": 3
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 6412,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Usha Vinay",
+      "team": "Lambodhara Leapers",
+      "totalSteps": 37708,
+      "averageDailySteps": 9427,
+      "totalPoints": 9,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 8567,
+          "points": 2
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 8144,
+          "points": 2
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 13695,
+          "points": 4
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 7302,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Lavina Jaiswal",
+      "team": "Laddu Legends",
+      "totalSteps": 36594,
+      "averageDailySteps": 9148,
+      "totalPoints": 9,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 13933,
+          "points": 4
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 2401,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 4395,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 15865,
+          "points": 5
+        }
+      ]
+    },
+    {
+      "name": "Amitkumar Parihar A-1402",
+      "team": "Pandal Pacers",
+      "totalSteps": 36245,
+      "averageDailySteps": 9061,
+      "totalPoints": 9,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 13155,
+          "points": 4
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 6326,
+          "points": 1
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 3479,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 13285,
+          "points": 4
+        }
+      ]
+    },
+    {
+      "name": "Chandrakala Anand",
+      "team": "Chaturthi Challengers",
+      "totalSteps": 35708,
+      "averageDailySteps": 8927,
+      "totalPoints": 9,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 12008,
+          "points": 4
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 8030,
+          "points": 2
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 8876,
+          "points": 2
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 6794,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Satish Mohapatra",
+      "team": "Aarti Avengers",
+      "totalSteps": 35287,
+      "averageDailySteps": 8822,
+      "totalPoints": 9,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 6235,
+          "points": 1
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 10033,
+          "points": 3
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 6490,
+          "points": 1
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 12529,
+          "points": 4
+        }
+      ]
+    },
+    {
+      "name": "Aparna A-208",
+      "team": "Modak Marchers",
+      "totalSteps": 31070,
+      "averageDailySteps": 7768,
+      "totalPoints": 9,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 526,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 8111,
+          "points": 2
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 10304,
+          "points": 3
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 12129,
+          "points": 4
+        }
+      ]
+    },
+    {
+      "name": "Suraj T",
+      "team": "Ganapati Striders",
+      "totalSteps": 38240,
+      "averageDailySteps": 9560,
+      "totalPoints": 8,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 11249,
+          "points": 3
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 7955,
+          "points": 1
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 13835,
+          "points": 4
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 5201,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "APURVA A1309",
+      "team": "Morya Movers",
+      "totalSteps": 37532,
+      "averageDailySteps": 9383,
+      "totalPoints": 8,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 14718,
+          "points": 4
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 4353,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 11028,
+          "points": 3
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 7433,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Vidya  A402",
+      "team": "Laddu Legends",
+      "totalSteps": 37423,
+      "averageDailySteps": 9356,
+      "totalPoints": 8,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 16582,
+          "points": 5
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 11015,
+          "points": 3
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 5754,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 4072,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Santosh Khot",
+      "team": "Laddu Legends",
+      "totalSteps": 34401,
+      "averageDailySteps": 8600,
+      "totalPoints": 8,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 8243,
+          "points": 2
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 5162,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 10286,
+          "points": 3
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 10710,
+          "points": 3
+        }
+      ]
+    },
+    {
+      "name": "Anagha D 305",
+      "team": "Laddu Legends",
+      "totalSteps": 32939,
+      "averageDailySteps": 8235,
+      "totalPoints": 8,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 12191,
+          "points": 4
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 7115,
+          "points": 1
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 2630,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 11003,
+          "points": 3
+        }
+      ]
+    },
+    {
+      "name": "Jadesha G",
+      "team": "Dhol Dashers",
+      "totalSteps": 30066,
+      "averageDailySteps": 7516,
+      "totalPoints": 8,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 12361,
+          "points": 4
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 3179,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 2413,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 12113,
+          "points": 4
+        }
+      ]
+    },
+    {
+      "name": "BOT_AVG_OF_TEAMS_STEPS",
+      "team": "Dhol Dashers",
+      "totalSteps": 34964,
+      "averageDailySteps": 8741,
+      "totalPoints": 7,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 10491,
+          "points": 3
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 8092,
+          "points": 2
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 8848,
+          "points": 2
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 7532,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Satish N S",
+      "team": "Modak Marchers",
+      "totalSteps": 34423,
+      "averageDailySteps": 8606,
+      "totalPoints": 7,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 4404,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 11302,
+          "points": 3
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 9166,
+          "points": 2
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 9551,
+          "points": 2
+        }
+      ]
+    },
+    {
+      "name": "Kavitha Kumar",
+      "team": "Lambodhara Leapers",
+      "totalSteps": 34037,
+      "averageDailySteps": 8509,
+      "totalPoints": 7,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 9287,
+          "points": 2
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 4499,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 8948,
+          "points": 2
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 11303,
+          "points": 3
+        }
+      ]
+    },
+    {
+      "name": "SAHANA BHAT",
+      "team": "Chaturthi Challengers",
+      "totalSteps": 32818,
+      "averageDailySteps": 8204,
+      "totalPoints": 7,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 9570,
+          "points": 2
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 8438,
+          "points": 2
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 8095,
+          "points": 2
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 6715,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Triveni Sharath A1101",
+      "team": "Modak Marchers",
+      "totalSteps": 30946,
+      "averageDailySteps": 7736,
+      "totalPoints": 7,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 6130,
+          "points": 1
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 8192,
+          "points": 2
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 10216,
+          "points": 3
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 6408,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "rajeev thayyil A908",
+      "team": "Ganapati Striders",
+      "totalSteps": 30806,
+      "averageDailySteps": 7702,
+      "totalPoints": 7,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 10201,
+          "points": 3
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 6454,
+          "points": 1
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 3458,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 10693,
+          "points": 3
+        }
+      ]
+    },
+    {
+      "name": "Prashant Diwan",
+      "team": "Lambodhara Leapers",
+      "totalSteps": 33525,
+      "averageDailySteps": 8381,
+      "totalPoints": 6,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 5872,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 12889,
+          "points": 4
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 5589,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 9175,
+          "points": 2
+        }
+      ]
+    },
+    {
+      "name": "Prashanth Naik B-705",
+      "team": "Aarti Avengers",
+      "totalSteps": 30376,
+      "averageDailySteps": 7594,
+      "totalPoints": 6,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 5323,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 8039,
+          "points": 2
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 8962,
+          "points": 2
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 8052,
+          "points": 2
+        }
+      ]
+    },
+    {
+      "name": "Kavya Bhatt A601",
+      "team": "Chaturthi Challengers",
+      "totalSteps": 29821,
+      "averageDailySteps": 7455,
+      "totalPoints": 6,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 7986,
+          "points": 1
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 12198,
+          "points": 4
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 7689,
+          "points": 1
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 1948,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "shashank A402",
+      "team": "Aarti Avengers",
+      "totalSteps": 28623,
+      "averageDailySteps": 7156,
+      "totalPoints": 6,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 11082,
+          "points": 3
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 11318,
+          "points": 3
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 4352,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 1871,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Nagaraj Patil A1005",
+      "team": "Dhol Dashers",
+      "totalSteps": 28253,
+      "averageDailySteps": 7063,
+      "totalPoints": 6,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 10677,
+          "points": 3
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 6327,
+          "points": 1
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 2433,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 8816,
+          "points": 2
+        }
+      ]
+    },
+    {
+      "name": "Sakhi Patle A1402",
+      "team": "Pandal Pacers",
+      "totalSteps": 27378,
+      "averageDailySteps": 6844,
+      "totalPoints": 6,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 10839,
+          "points": 3
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 6216,
+          "points": 1
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 2289,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 8034,
+          "points": 2
+        }
+      ]
+    },
+    {
+      "name": "Harish Punjabi D1001",
+      "team": "Chaturthi Challengers",
+      "totalSteps": 26436,
+      "averageDailySteps": 6609,
+      "totalPoints": 6,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 4160,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 8268,
+          "points": 2
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 12418,
+          "points": 4
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 1590,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Prajwal D Kulkarni",
+      "team": "Morya Movers",
+      "totalSteps": 29099,
+      "averageDailySteps": 7275,
+      "totalPoints": 5,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 9862,
+          "points": 2
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 7027,
+          "points": 1
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 6041,
+          "points": 1
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 6169,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "SRI    D-1303",
+      "team": "Modak Marchers",
+      "totalSteps": 28924,
+      "averageDailySteps": 7231,
+      "totalPoints": 5,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 8905,
+          "points": 2
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 4210,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 5771,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 10038,
+          "points": 3
+        }
+      ]
+    },
+    {
+      "name": "Amit Jaiswal  A201",
+      "team": "Chaturthi Challengers",
+      "totalSteps": 27377,
+      "averageDailySteps": 6844,
+      "totalPoints": 5,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 11523,
+          "points": 3
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 8488,
+          "points": 2
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 5412,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 1954,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Abhishek Dravid",
+      "team": "Laddu Legends",
+      "totalSteps": 26036,
+      "averageDailySteps": 6509,
+      "totalPoints": 5,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 11448,
+          "points": 3
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 2893,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 2699,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 8996,
+          "points": 2
+        }
+      ]
+    },
+    {
+      "name": "Chandan U H B901",
+      "team": "Ganesha Gliders",
+      "totalSteps": 28661,
+      "averageDailySteps": 7165,
+      "totalPoints": 4,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 9842,
+          "points": 2
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 9395,
+          "points": 2
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 5808,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 3616,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Santosh  A204",
+      "team": "Aarti Avengers",
+      "totalSteps": 26921,
+      "averageDailySteps": 6730,
+      "totalPoints": 4,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 3939,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 7890,
+          "points": 1
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 9069,
+          "points": 2
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 6023,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Vikas B201",
+      "team": "Aarti Avengers",
+      "totalSteps": 26689,
+      "averageDailySteps": 6672,
+      "totalPoints": 4,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 10308,
+          "points": 3
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 5798,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 3953,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 6630,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Nayana Mukkamala",
+      "team": "Modak Marchers",
+      "totalSteps": 24531,
+      "averageDailySteps": 6133,
+      "totalPoints": 4,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 4400,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 2792,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 8317,
+          "points": 2
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 9022,
+          "points": 2
+        }
+      ]
+    },
+    {
+      "name": "Sachin A701",
+      "team": "Mushika Miles",
+      "totalSteps": 24349,
+      "averageDailySteps": 6087,
+      "totalPoints": 4,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 5163,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 4173,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 12716,
+          "points": 4
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 2297,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Santhosh A806",
+      "team": "Morya Movers",
+      "totalSteps": 23737,
+      "averageDailySteps": 5934,
+      "totalPoints": 4,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 1716,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 11165,
+          "points": 3
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 6705,
+          "points": 1
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 4151,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Amala S D804",
+      "team": "Ganesha Gliders",
+      "totalSteps": 22535,
+      "averageDailySteps": 5634,
+      "totalPoints": 4,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 6037,
+          "points": 1
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 6342,
+          "points": 1
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 8772,
+          "points": 2
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 1384,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Prashant A905",
+      "team": "Pandal Pacers",
+      "totalSteps": 25154,
+      "averageDailySteps": 6288,
+      "totalPoints": 3,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 4628,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 8633,
+          "points": 2
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 6058,
+          "points": 1
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 5835,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Abhinay Sathish kumar",
+      "team": "Chaturthi Challengers",
+      "totalSteps": 24232,
+      "averageDailySteps": 6058,
+      "totalPoints": 3,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 4095,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 6773,
+          "points": 1
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 6285,
+          "points": 1
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 7079,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Abhilash Patil",
+      "team": "Dhol Dashers",
+      "totalSteps": 23707,
+      "averageDailySteps": 5927,
+      "totalPoints": 3,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 3218,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 6580,
+          "points": 1
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 9512,
+          "points": 2
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 4397,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "sailaja Mangalpally  B1201",
+      "team": "Aarti Avengers",
+      "totalSteps": 23398,
+      "averageDailySteps": 5850,
+      "totalPoints": 3,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 2631,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 5093,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 9207,
+          "points": 2
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 6467,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Virendra  A1007",
+      "team": "Laddu Legends",
+      "totalSteps": 22608,
+      "averageDailySteps": 5652,
+      "totalPoints": 3,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 3243,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 8822,
+          "points": 2
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 6719,
+          "points": 1
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 3824,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Roopa  Gururaj D 305",
+      "team": "Mushika Miles",
+      "totalSteps": 21699,
+      "averageDailySteps": 5425,
+      "totalPoints": 3,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 8433,
+          "points": 2
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 3489,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 3704,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 6073,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Aroma B1204",
+      "team": "Mushika Miles",
+      "totalSteps": 20277,
+      "averageDailySteps": 5069,
+      "totalPoints": 3,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 1509,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 6281,
+          "points": 1
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 6378,
+          "points": 1
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 6109,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "megha kalpavriksh",
+      "team": "Morya Movers",
+      "totalSteps": 24360,
+      "averageDailySteps": 6090,
+      "totalPoints": 2,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 6528,
+          "points": 1
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 7165,
+          "points": 1
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 4865,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 5802,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Nagababu  A1105",
+      "team": "Lambodhara Leapers",
+      "totalSteps": 22538,
+      "averageDailySteps": 5634,
+      "totalPoints": 2,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 5882,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 6151,
+          "points": 1
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 6198,
+          "points": 1
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 4307,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Pavan Deshpande",
+      "team": "Laddu Legends",
+      "totalSteps": 22344,
+      "averageDailySteps": 5586,
+      "totalPoints": 2,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 6275,
+          "points": 1
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 4653,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 3925,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 7491,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Abhilash Desai C1005",
+      "team": "Laddu Legends",
+      "totalSteps": 20052,
+      "averageDailySteps": 5013,
+      "totalPoints": 2,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 5008,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 2717,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 6232,
+          "points": 1
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 6095,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Laxmidevi Kolhar",
+      "team": "Ganapati Striders",
+      "totalSteps": 13840,
+      "averageDailySteps": 3460,
+      "totalPoints": 2,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 575,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 1100,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 6124,
+          "points": 1
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 6041,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Aishwarya MR",
+      "team": "Lambodhara Leapers",
+      "totalSteps": 20551,
+      "averageDailySteps": 5138,
+      "totalPoints": 1,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 4824,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 4485,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 4809,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 6433,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Shruti wadageri A802",
+      "team": "Dhol Dashers",
+      "totalSteps": 19706,
+      "averageDailySteps": 4926,
+      "totalPoints": 1,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 3267,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 5822,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 7306,
+          "points": 1
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 3311,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Rekha  D",
+      "team": "Dhol Dashers",
+      "totalSteps": 19534,
+      "averageDailySteps": 4884,
+      "totalPoints": 1,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 5816,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 5760,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 6000,
+          "points": 1
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 1958,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Bhargavi  A1103",
+      "team": "Ganesha Gliders",
+      "totalSteps": 17584,
+      "averageDailySteps": 4396,
+      "totalPoints": 1,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 1741,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 6314,
+          "points": 1
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 4246,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 5283,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Dr Vishwanath Koti",
+      "team": "Chaturthi Challengers",
+      "totalSteps": 17464,
+      "averageDailySteps": 4366,
+      "totalPoints": 1,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 2078,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 4587,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 6062,
+          "points": 1
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 4737,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Supriya Singh",
+      "team": "Modak Marchers",
+      "totalSteps": 17050,
+      "averageDailySteps": 4262,
+      "totalPoints": 1,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 7880,
+          "points": 1
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 1756,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 3554,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 3860,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Vanishree Bhat C306",
+      "team": "Morya Movers",
+      "totalSteps": 16474,
+      "averageDailySteps": 4118,
+      "totalPoints": 1,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 7146,
+          "points": 1
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 3785,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 1223,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 4320,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "shree latha",
+      "team": "Pandal Pacers",
+      "totalSteps": 16179,
+      "averageDailySteps": 4045,
+      "totalPoints": 1,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 5583,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 2082,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 2271,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 6243,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Namitha Rajeev",
+      "team": "Lambodhara Leapers",
+      "totalSteps": 14746,
+      "averageDailySteps": 3686,
+      "totalPoints": 1,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 6452,
+          "points": 1
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 5131,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 904,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 2259,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Sandeep Kumar",
+      "team": "Lambodhara Leapers",
+      "totalSteps": 13577,
+      "averageDailySteps": 3394,
+      "totalPoints": 1,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 3021,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 6265,
+          "points": 1
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 2032,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 2259,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Rupali Patil A-1007",
+      "team": "Modak Marchers",
+      "totalSteps": 13035,
+      "averageDailySteps": 3259,
+      "totalPoints": 1,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 3092,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 6173,
+          "points": 1
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 2666,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 1104,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Nitin Bhatnagar A803",
+      "team": "Modak Marchers",
+      "totalSteps": 13023,
+      "averageDailySteps": 3256,
+      "totalPoints": 1,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 1834,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 6330,
+          "points": 1
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 3575,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 1284,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Subhabrata Halder",
+      "team": "Lambodhara Leapers",
+      "totalSteps": 12027,
+      "averageDailySteps": 3007,
+      "totalPoints": 1,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 1829,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 2253,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 6076,
+          "points": 1
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 1869,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Smita  A404",
+      "team": "Ganapati Striders",
+      "totalSteps": 11164,
+      "averageDailySteps": 2791,
+      "totalPoints": 1,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 396,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 6271,
+          "points": 1
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 2975,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 1522,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Rajeev A909",
+      "team": "Mushika Miles",
+      "totalSteps": 18432,
+      "averageDailySteps": 4608,
+      "totalPoints": 0,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 2083,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 5244,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 5972,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 5133,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Shalini -  A 605",
+      "team": "Chaturthi Challengers",
+      "totalSteps": 15990,
+      "averageDailySteps": 3998,
+      "totalPoints": 0,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 3687,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 2564,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 4906,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 4833,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Preeti Kulkarni",
+      "team": "Morya Movers",
+      "totalSteps": 14149,
+      "averageDailySteps": 3537,
+      "totalPoints": 0,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 4233,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 4246,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 738,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 4932,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Supriya Vishwanth A-510",
+      "team": "Mushika Miles",
+      "totalSteps": 13179,
+      "averageDailySteps": 3295,
+      "totalPoints": 0,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 4936,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 3367,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 1525,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 3351,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Sunita Pandey",
+      "team": "Ganapati Striders",
+      "totalSteps": 11906,
+      "averageDailySteps": 2976,
+      "totalPoints": 0,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 4680,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 2178,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 432,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 4616,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "dee.m335g",
+      "team": "Pandal Pacers",
+      "totalSteps": 10974,
+      "averageDailySteps": 2744,
+      "totalPoints": 0,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 0,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 2385,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 4095,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 4494,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Vatsala Nagaraj",
+      "team": "Ganesha Gliders",
+      "totalSteps": 9420,
+      "averageDailySteps": 2355,
+      "totalPoints": 0,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 4942,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 2564,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 465,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 1449,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Rajashree Khot",
+      "team": "Ganesha Gliders",
+      "totalSteps": 4619,
+      "averageDailySteps": 1155,
+      "totalPoints": 0,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 586,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 1165,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 2473,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 395,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Vidya Bharadwaj",
+      "team": "Ganesha Gliders",
+      "totalSteps": 2174,
+      "averageDailySteps": 544,
+      "totalPoints": 0,
+      "daily": [
+        {
+          "date": "2026-08-14",
+          "steps": 0,
+          "points": 0
+        },
+        {
+          "date": "2026-08-15",
+          "steps": 0,
+          "points": 0
+        },
+        {
+          "date": "2026-08-16",
+          "steps": 0,
+          "points": 0
+        },
+        {
+          "date": "2026-08-17",
+          "steps": 2174,
+          "points": 0
+        }
+      ]
+    }
+  ]
+}
