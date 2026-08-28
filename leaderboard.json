@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T18:34:56+05:30",
+  "updatedAt": "2026-08-28T19:07:51+05:30",
   "challenge": {
     "name": "Stepathon 2026",
     "startDate": "2026-08-14",
@@ -38,21 +38,8 @@
       }
     },
     {
-      "name": "Modak Marchers",
-      "rank": 2,
-      "registeredMembers": 10,
-      "totalPoints": 365,
-      "averagePointsPerMember": 36.5,
-      "stepsTillLastWeek": 1555809,
-      "weeklyPoints": {
-        "week_14_20_aug": 164,
-        "week_21_27_aug": 201,
-        "week_28_28_aug": "=0"
-      }
-    },
-    {
       "name": "Aarti Avengers",
-      "rank": 3,
+      "rank": 2,
       "registeredMembers": 10,
       "totalPoints": 364,
       "averagePointsPerMember": 36.4,
@@ -60,6 +47,19 @@
       "weeklyPoints": {
         "week_14_20_aug": 167,
         "week_21_27_aug": 197,
+        "week_28_28_aug": "=0"
+      }
+    },
+    {
+      "name": "Modak Marchers",
+      "rank": 3,
+      "registeredMembers": 10,
+      "totalPoints": 357,
+      "averagePointsPerMember": 35.7,
+      "stepsTillLastWeek": 1539608,
+      "weeklyPoints": {
+        "week_14_20_aug": 161,
+        "week_21_27_aug": 196,
         "week_28_28_aug": "=0"
       }
     },
@@ -106,18 +106,31 @@
       "name": "Dhol Dashers",
       "rank": 7,
       "registeredMembers": 10,
-      "totalPoints": 317,
-      "averagePointsPerMember": 31.7,
-      "stepsTillLastWeek": 1343704,
+      "totalPoints": 319,
+      "averagePointsPerMember": 31.9,
+      "stepsTillLastWeek": 1348713,
       "weeklyPoints": {
-        "week_14_20_aug": 144,
-        "week_21_27_aug": 173,
+        "week_14_20_aug": 145,
+        "week_21_27_aug": 174,
+        "week_28_28_aug": "=0"
+      }
+    },
+    {
+      "name": "Ganesha Gliders",
+      "rank": 8,
+      "registeredMembers": 10,
+      "totalPoints": 281,
+      "averagePointsPerMember": 28.1,
+      "stepsTillLastWeek": 1207614,
+      "weeklyPoints": {
+        "week_14_20_aug": 132,
+        "week_21_27_aug": 149,
         "week_28_28_aug": "=0"
       }
     },
     {
       "name": "Chaturthi Challengers",
-      "rank": 8,
+      "rank": 9,
       "registeredMembers": 10,
       "totalPoints": 269,
       "averagePointsPerMember": 26.9,
@@ -129,21 +142,21 @@
       }
     },
     {
-      "name": "Ganesha Gliders",
-      "rank": 9,
+      "name": "Laddu Legends",
+      "rank": 10,
       "registeredMembers": 10,
-      "totalPoints": 267,
-      "averagePointsPerMember": 26.7,
-      "stepsTillLastWeek": 1186928,
+      "totalPoints": 252,
+      "averagePointsPerMember": 25.2,
+      "stepsTillLastWeek": 1132070,
       "weeklyPoints": {
-        "week_14_20_aug": 126,
-        "week_21_27_aug": 141,
+        "week_14_20_aug": 133,
+        "week_21_27_aug": 119,
         "week_28_28_aug": "=0"
       }
     },
     {
       "name": "Lambodhara Leapers",
-      "rank": 10,
+      "rank": 11,
       "registeredMembers": 10,
       "totalPoints": 250,
       "averagePointsPerMember": 25.0,
@@ -151,19 +164,6 @@
       "weeklyPoints": {
         "week_14_20_aug": 123,
         "week_21_27_aug": 127,
-        "week_28_28_aug": "=0"
-      }
-    },
-    {
-      "name": "Laddu Legends",
-      "rank": 11,
-      "registeredMembers": 10,
-      "totalPoints": 238,
-      "averagePointsPerMember": 23.8,
-      "stepsTillLastWeek": 1102990,
-      "weeklyPoints": {
-        "week_14_20_aug": 129,
-        "week_21_27_aug": 109,
         "week_28_28_aug": "=0"
       }
     }
@@ -9288,340 +9288,340 @@
     {
       "name": "bot_participant",
       "team": "Dhol Dashers",
-      "totalSteps": 134370,
-      "averageDailySteps": 9598,
-      "totalPoints": 33,
+      "totalSteps": 139379,
+      "averageDailySteps": 9956,
+      "totalPoints": 35,
       "daily": [
         {
           "date": "2026-08-14",
-          "steps": 10491,
-          "points": 3
+          "steps": 9911,
+          "points": 2
         },
         {
           "date": "2026-08-15",
-          "steps": 8092,
+          "steps": 9153,
           "points": 2
         },
         {
           "date": "2026-08-16",
-          "steps": 8848,
+          "steps": 8767,
           "points": 2
         },
         {
           "date": "2026-08-17",
-          "steps": 7549,
-          "points": 1
+          "steps": 8653,
+          "points": 2
         },
         {
           "date": "2026-08-18",
-          "steps": 9300,
+          "steps": 9817,
           "points": 2
         },
         {
           "date": "2026-08-19",
-          "steps": 10831,
+          "steps": 10996,
           "points": 3
         },
         {
           "date": "2026-08-20",
-          "steps": 8086,
-          "points": 2
+          "steps": 10385,
+          "points": 3
         },
         {
           "date": "2026-08-21",
-          "steps": 8379,
+          "steps": 8759,
           "points": 2
         },
         {
           "date": "2026-08-22",
-          "steps": 8106,
+          "steps": 9870,
           "points": 2
         },
         {
           "date": "2026-08-23",
-          "steps": 11003,
+          "steps": 10120,
           "points": 3
         },
         {
           "date": "2026-08-24",
-          "steps": 11163,
+          "steps": 10264,
           "points": 3
         },
         {
           "date": "2026-08-25",
-          "steps": 9121,
-          "points": 2
+          "steps": 11332,
+          "points": 3
         },
         {
           "date": "2026-08-26",
-          "steps": 11545,
+          "steps": 10708,
           "points": 3
         },
         {
           "date": "2026-08-27",
-          "steps": 11856,
+          "steps": 10644,
           "points": 3
         }
       ],
-      "stepsTillLastWeek": 134370,
+      "stepsTillLastWeek": 139379,
       "weeklyPoints": {
-        "week_14_20_aug": 15,
-        "week_21_27_aug": 18,
+        "week_14_20_aug": 16,
+        "week_21_27_aug": 19,
         "week_28_28_aug": "=0"
       }
     },
     {
       "name": "bot_participant",
       "team": "Ganesha Gliders",
-      "totalSteps": 118693,
-      "averageDailySteps": 8478,
-      "totalPoints": 21,
+      "totalSteps": 139379,
+      "averageDailySteps": 9956,
+      "totalPoints": 35,
       "daily": [
         {
           "date": "2026-08-14",
-          "steps": 9774,
+          "steps": 9911,
           "points": 2
         },
         {
           "date": "2026-08-15",
-          "steps": 7951,
-          "points": 1
+          "steps": 9153,
+          "points": 2
         },
         {
           "date": "2026-08-16",
-          "steps": 5627,
-          "points": 0
+          "steps": 8767,
+          "points": 2
         },
         {
           "date": "2026-08-17",
-          "steps": 6121,
-          "points": 1
+          "steps": 8653,
+          "points": 2
         },
         {
           "date": "2026-08-18",
-          "steps": 9970,
+          "steps": 9817,
           "points": 2
         },
         {
           "date": "2026-08-19",
-          "steps": 11061,
+          "steps": 10996,
           "points": 3
         },
         {
           "date": "2026-08-20",
-          "steps": 7740,
-          "points": 1
+          "steps": 10385,
+          "points": 3
         },
         {
           "date": "2026-08-21",
-          "steps": 5998,
-          "points": 0
-        },
-        {
-          "date": "2026-08-22",
-          "steps": 7839,
-          "points": 1
-        },
-        {
-          "date": "2026-08-23",
-          "steps": 7817,
-          "points": 1
-        },
-        {
-          "date": "2026-08-24",
-          "steps": 9031,
+          "steps": 8759,
           "points": 2
         },
         {
+          "date": "2026-08-22",
+          "steps": 9870,
+          "points": 2
+        },
+        {
+          "date": "2026-08-23",
+          "steps": 10120,
+          "points": 3
+        },
+        {
+          "date": "2026-08-24",
+          "steps": 10264,
+          "points": 3
+        },
+        {
           "date": "2026-08-25",
-          "steps": 11104,
+          "steps": 11332,
           "points": 3
         },
         {
           "date": "2026-08-26",
-          "steps": 8980,
-          "points": 2
+          "steps": 10708,
+          "points": 3
         },
         {
           "date": "2026-08-27",
-          "steps": 9680,
-          "points": 2
+          "steps": 10644,
+          "points": 3
         }
       ],
-      "stepsTillLastWeek": 118693,
+      "stepsTillLastWeek": 139379,
       "weeklyPoints": {
-        "week_14_20_aug": 10,
-        "week_21_27_aug": 11,
+        "week_14_20_aug": 16,
+        "week_21_27_aug": 19,
         "week_28_28_aug": "=0"
       }
     },
     {
       "name": "bot_participant",
       "team": "Laddu Legends",
-      "totalSteps": 110299,
-      "averageDailySteps": 7878,
-      "totalPoints": 21,
+      "totalSteps": 139379,
+      "averageDailySteps": 9956,
+      "totalPoints": 35,
       "daily": [
         {
           "date": "2026-08-14",
-          "steps": 10591,
-          "points": 3
+          "steps": 9911,
+          "points": 2
         },
         {
           "date": "2026-08-15",
-          "steps": 7133,
-          "points": 1
+          "steps": 9153,
+          "points": 2
         },
         {
           "date": "2026-08-16",
-          "steps": 7067,
-          "points": 1
+          "steps": 8767,
+          "points": 2
         },
         {
           "date": "2026-08-17",
-          "steps": 8446,
+          "steps": 8653,
           "points": 2
         },
         {
           "date": "2026-08-18",
-          "steps": 10297,
-          "points": 3
+          "steps": 9817,
+          "points": 2
         },
         {
           "date": "2026-08-19",
-          "steps": 7411,
-          "points": 1
+          "steps": 10996,
+          "points": 3
         },
         {
           "date": "2026-08-20",
-          "steps": 6993,
-          "points": 1
+          "steps": 10385,
+          "points": 3
         },
         {
           "date": "2026-08-21",
-          "steps": 6333,
-          "points": 1
+          "steps": 8759,
+          "points": 2
         },
         {
           "date": "2026-08-22",
-          "steps": 8568,
+          "steps": 9870,
           "points": 2
         },
         {
           "date": "2026-08-23",
-          "steps": 7227,
-          "points": 1
+          "steps": 10120,
+          "points": 3
         },
         {
           "date": "2026-08-24",
-          "steps": 5773,
-          "points": 0
+          "steps": 10264,
+          "points": 3
         },
         {
           "date": "2026-08-25",
-          "steps": 8917,
-          "points": 2
+          "steps": 11332,
+          "points": 3
         },
         {
           "date": "2026-08-26",
-          "steps": 9515,
-          "points": 2
+          "steps": 10708,
+          "points": 3
         },
         {
           "date": "2026-08-27",
-          "steps": 6028,
-          "points": 1
+          "steps": 10644,
+          "points": 3
         }
       ],
-      "stepsTillLastWeek": 110299,
+      "stepsTillLastWeek": 139379,
       "weeklyPoints": {
-        "week_14_20_aug": 12,
-        "week_21_27_aug": 9,
+        "week_14_20_aug": 16,
+        "week_21_27_aug": 19,
         "week_28_28_aug": "=0"
       }
     },
     {
       "name": "bot_participant",
       "team": "Modak Marchers",
-      "totalSteps": 155580,
-      "averageDailySteps": 11113,
-      "totalPoints": 43,
+      "totalSteps": 139379,
+      "averageDailySteps": 9956,
+      "totalPoints": 35,
       "daily": [
         {
           "date": "2026-08-14",
-          "steps": 8647,
+          "steps": 9911,
           "points": 2
         },
         {
           "date": "2026-08-15",
-          "steps": 9447,
+          "steps": 9153,
           "points": 2
         },
         {
           "date": "2026-08-16",
-          "steps": 9156,
+          "steps": 8767,
           "points": 2
         },
         {
           "date": "2026-08-17",
-          "steps": 9378,
+          "steps": 8653,
           "points": 2
         },
         {
           "date": "2026-08-18",
-          "steps": 11920,
-          "points": 3
-        },
-        {
-          "date": "2026-08-19",
-          "steps": 13217,
-          "points": 4
-        },
-        {
-          "date": "2026-08-20",
-          "steps": 12465,
-          "points": 4
-        },
-        {
-          "date": "2026-08-21",
-          "steps": 12339,
-          "points": 4
-        },
-        {
-          "date": "2026-08-22",
-          "steps": 10637,
-          "points": 3
-        },
-        {
-          "date": "2026-08-23",
-          "steps": 8750,
+          "steps": 9817,
           "points": 2
         },
         {
+          "date": "2026-08-19",
+          "steps": 10996,
+          "points": 3
+        },
+        {
+          "date": "2026-08-20",
+          "steps": 10385,
+          "points": 3
+        },
+        {
+          "date": "2026-08-21",
+          "steps": 8759,
+          "points": 2
+        },
+        {
+          "date": "2026-08-22",
+          "steps": 9870,
+          "points": 2
+        },
+        {
+          "date": "2026-08-23",
+          "steps": 10120,
+          "points": 3
+        },
+        {
           "date": "2026-08-24",
-          "steps": 11094,
+          "steps": 10264,
           "points": 3
         },
         {
           "date": "2026-08-25",
-          "steps": 12693,
-          "points": 4
+          "steps": 11332,
+          "points": 3
         },
         {
           "date": "2026-08-26",
-          "steps": 12863,
-          "points": 4
+          "steps": 10708,
+          "points": 3
         },
         {
           "date": "2026-08-27",
-          "steps": 12974,
-          "points": 4
+          "steps": 10644,
+          "points": 3
         }
       ],
-      "stepsTillLastWeek": 155580,
+      "stepsTillLastWeek": 139379,
       "weeklyPoints": {
-        "week_14_20_aug": 19,
-        "week_21_27_aug": 24,
+        "week_14_20_aug": 16,
+        "week_21_27_aug": 19,
         "week_28_28_aug": "=0"
       }
     }
